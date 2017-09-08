@@ -30,3 +30,13 @@ body {
      padding-bottom: 2em;
      padding-top: 2px;
  }
+
+ .fancy {
+  font-weight: bold;
+  font-style: oblique;
+}
+
+.well {
+    background-color: deepskyblue;
+    padding-top: .3em;
+}
