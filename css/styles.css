@@ -17,3 +17,12 @@
 .smaller {
     font-size:  13px;
 }
+
+body {
+    background-color: yellow
+    ;
+}
+ img {
+     padding-bottom: 2em;
+     padding-top: 2px;
+ }
