@@ -29,6 +29,7 @@ body {
  img {
      padding-bottom: 2em;
      padding-top: 2px;
+     float: none;
  }
 
  .fancy {
@@ -47,4 +48,9 @@ footer {
 
 h5 {
     text-align: center;
+}
+
+.panel-default > .panel-heading-custom1 {
+    background: green;
+    color: orange;
 }
