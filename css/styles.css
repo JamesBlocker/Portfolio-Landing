@@ -19,11 +19,11 @@
 }
 
 body {
-    background-color: darkorange;
+    background-color: #B34C27;
 }
 
 .container {
-    background-color: yellow;
+    background-color: #438CB3;
 }
 
  img {
@@ -38,7 +38,7 @@ body {
 }
 
 .well {
-    background-color: deepskyblue;
+    background-color: #AFAEB3;
     padding-top: .3em;
 }
 
@@ -50,7 +50,20 @@ h5 {
     text-align: center;
 }
 
-.panel-default > .panel-heading-custom1 {
-    background: green;
+.panel-default > .panel-heading-custom2 {
+    background: #876EA8;
     color: orange;
+}
+
+.panel-default > .panel-heading-custom3 {
+    background: #FF3600;
+    color: orange;
+}
+.panel-default > .panel-heading-custom1 {
+    background: #005047;
+    color: orange;
+}
+
+a[href^="mailto"] {
+    color: goldenrod;
 }
