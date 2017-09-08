@@ -40,3 +40,7 @@ body {
     background-color: deepskyblue;
     padding-top: .3em;
 }
+
+footer {
+    font-size: 12px;
+}
