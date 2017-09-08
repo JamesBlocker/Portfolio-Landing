@@ -12,7 +12,7 @@ _Webpage using HTML, CSS, and Bootstrap to highlight my work experience and prev
 
 * _clone repository to local drive_
 * _Open using web browser_
-* _also available at !!!_*
+* _also available at https://jamesblocker.github.io/Portfolio-Landing/_*
 
 ## Known Bugs
 
